@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "coverImage": "https://i.ibb.co.com/YZ7TYwC/1.png",
+      "title": "The Twilight Meadows",
+      "author": "Elara Rivers",
+      "authorImage": "https://i.ibb.co.com/xf9RS4m/boy1.png",
+      "postedDate": "2023-12-15",
+      "readingTime": 7 ,
+      "hashtag": ["#Fantasy", "#Adventure", "#Nature"]
+    },
+    {
+      "id": 102,
+      "coverImage": "https://i.ibb.co.com/Kr0wMbH/2.jpg",
+      "title": "Whispers of the Storm",
+      "author": "Kian Winter",
+      "authorImage": "https://i.ibb.co.com/0f574B2/boy2.jpg",
+      "postedDate": "2024-01-10",
+      "readingTime": 9,
+      "hashtag": ["#Mystery", "#Suspense", "#Thriller"]
+    },
+    {
+      "id": 103,
+      "coverImage": "https://i.ibb.co.com/M9cMVL5/3.png",
+      "title": "Echoes of the Past",
+      "author": "Rowan Archer",
+      "authorImage": "https://i.ibb.co.com/vHD51h7/girl1.jpg",
+      "postedDate": "2024-02-05",
+      "readingTime": 12 ,
+      "hashtag": ["#Historical", "#Drama", "#Romance"]
+    },
+    {
+      "id": 104,
+      "coverImage": "https://i.ibb.co.com/gZKDybv/4.jpg",
+      "title": "Beneath the Ocean Sky",
+      "author": "Isla Waters",
+      "authorImage": "https://i.ibb.co.com/J2Ss0GM/girl2.jpg",
+      "postedDate": "2024-03-22",
+      "readingTime": 5 ,
+      "hashtag": ["#ScienceFiction", "#Adventure", "#Space"]
+    },
+    {
+      "id": 105,
+      "coverImage": "https://i.ibb.co.com/vcbwgN0/laptop-wooden-table-dark-work-from-home-concept-1142-45739.jpg",
+      "title": "The Secret Garden of Dreams",
+      "author": "Leo Ashford",
+      "authorImage": "https://i.ibb.co.com/vsgYSsq/profile.png",
+      "postedDate": "2024-04-08",
+      "readingTime": 8 ,
+      "hashtag": ["#Fantasy", "#Nature", "#Magic"]
+    }
+  ]
+  
